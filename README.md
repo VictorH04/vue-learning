@@ -1,4 +1,4 @@
-# vue-learning
+# Vue-Learning
 
 ## What is this? :O
 ```
